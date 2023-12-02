@@ -10,7 +10,7 @@ The Coder hope that users will be "wise" in using this tool.
 Run the following command to install the latest version:
 
 ```sh
-git clone https://github.com/rohmatariow/Bcry/
+git clone https://github.com/rohmatariow/Breach-Inteligence/
 ```
 
 ### Usage
