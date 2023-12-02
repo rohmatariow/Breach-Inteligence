@@ -1,7 +1,7 @@
 # Breach-Inteligence
 
 # What is this?
-Breach Intelligence is a tool to search for data using a specific data format. This tool takes data sourced directly from breach forums whether on the deepweb, darkweb, and others.
+Breach Inteligence is a tool to search for data using a specific data format. This tool takes data sourced directly from breach forums whether on the deepweb, darkweb, and others.
 
 This tool aims to help people to find or search whether their data is included in the malicious list or not.
 The Coder hope that users will be "wise" in using this tool.
