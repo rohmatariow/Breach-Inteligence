@@ -14,8 +14,8 @@ git clone https://github.com/rohmatariow/Bcry/
 ```
 
 ### Usage
+Make sure you have downloaded and one location with the directory "pyarmor_runtime_000000". In accordance with the installation procedure above.
 ```sh
-cd Bcry/
-chmod +x bcry.sh
-./bcry.sh
+cd Breach-Inteligence/
+python3 ext.py
 ```
