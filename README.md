@@ -14,7 +14,6 @@ git clone https://github.com/rohmatariow/Breach-Inteligence/
 ```
 
 ### Usage
-Make sure you have downloaded and one location with the directory "pyarmor_runtime_000000". In accordance with the installation procedure above.
 ```sh
 pip install sourcedefender
 cd Breach-Inteligence/
